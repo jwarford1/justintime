@@ -1,0 +1,14 @@
+{
+  "name": "pacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./verifyPacts.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pact-foundation/pact-node": "^9.0.2"
+  }
+}
